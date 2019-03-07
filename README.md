@@ -1,1 +1,3 @@
-A repository consisting of various novice C# programming language return functions.
+A repository consisting of various novice C# programming language return functions. The return functions were created via the https://www.edabit.com site. Here there are various challenges presented to programmers of various languages and levels. I was able to solve over 20 return function challenges. After completing the challenge, I created various data structures, passed in values and created console display messaging and display output for all passed values.
+
+All code was successfully compiled using MS Visual Studio 2017. I copied and pasted successfully compiled code into NotePad++. This was done primarily in an effort to allow anyone to copy the code and paste it into any compiler that handles .cs files.
