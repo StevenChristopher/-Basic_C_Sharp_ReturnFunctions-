@@ -7,12 +7,14 @@
 */
 
 // STYLE MODIFICATIONS:
-// 1) Added a basic console display for the return value.
+// 1) Added console display messaging and prompts.
+// 2) Added output display.
 
 // FUNCTIONAL MODIFICATIONS:
-// 1) Passed integer values into the function.
+// 1) Passed specific values into the function.
 // 2) Return and display the functions' return value.
 // 3) Added Main() method and called in return function.
+// 4) Added program exit.
 
 using System;
 using System.Collections.Generic;
